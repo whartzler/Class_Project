@@ -6,3 +6,7 @@
 3. Source a dataset or, if applicable, multiple datasets that will suit your needs.
 4. Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis.
 5. Include mock-ups of a machine learning model and a database
+
+### Project Ideas
+ - March Madness Bracket
+ - 

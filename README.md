@@ -10,3 +10,8 @@
 ### Project Ideas
  - March Madness Bracket
  - 
+
+### Due Dates: 
+Segment 1: March 22nd 
+Segment 2: March 29
+Segment 3: April 5th! & Final day of class

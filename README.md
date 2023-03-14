@@ -10,6 +10,7 @@
 
 ### Project Ideas
 1. EV Vehicle Impact
+  - Regression model on CO2 emmisions based on increased EV usage
 3. March Madness Bracket
 4. College Enrollment vs Certification Benefits
 5. Movie Comparisons movie tyopes over the years/ vs major events

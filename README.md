@@ -13,13 +13,14 @@
   - Regression on number of EV charging stations over time
     - Nicks Dataset - Stations folder:  EV Stations.CSV   
   - Predict future sales by EV Type
+  - Charging times Year over Year
 
 ### EV Vehicle Impact
 
 #### Washington Dataset
 https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
  - Future Sales by vehicle type
- - 
+ - Average Emissions Data by type
 
 
 

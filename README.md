@@ -8,7 +8,7 @@
 - [ ] Include mock-ups of a machine learning model and a database
 
 ### Project Ideas
-1. Electronic Vehicle Future???
+1. Electronic Vehicle Future involve some statistics/analysis vs Gas Vehicles
   - Regression model on CO2 emmisions based on increased EV usage
   - Regression on number of EV charging stations over time
     - Nicks Dataset - Stations folder:  EV Stations.CSV   

@@ -11,6 +11,7 @@
 1. Electronic Vehicle Future???
   - Regression model on CO2 emmisions based on increased EV usage
   - Regression on number of EV charging stations over time
+    - Nicks Dataset - EV Stations.CSV   
   - Predict future sales by EV Type
 
 ### EV Vehicle Impact

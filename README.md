@@ -14,6 +14,7 @@
     - Nicks Dataset - Stations folder:  EV Stations.CSV   
   - Predict future sales by EV Type
   - Charging times Year over Year
+  - How much of the market is EV vs Gas vehicles
 
 ### EV Vehicle Impact
 

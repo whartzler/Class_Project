@@ -11,6 +11,7 @@
 1. Electronic Vehicle Future???
   - Regression model on CO2 emmisions based on increased EV usage
   - Regression on number of EV charging stations over time
+  - Predict future sales by EV Type
 
 ### EV Vehicle Impact
 https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2

@@ -10,7 +10,7 @@
 ### Project Ideas
 1. Electronic Vehicle Future???
   - Regression model on CO2 emmisions based on increased EV usage
-  - 
+  - Regression on number of EV charging stations over time
 3. March Madness Bracket
 4. College Enrollment vs Certification Benefits
 5. Movie Comparisons movie tyopes over the years/ vs major events

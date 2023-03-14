@@ -24,14 +24,17 @@ https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
  - Electric Range vs gas range
 
 
-## Duties
+## Things people wanna do
  - Ryan - ETL
  - Nick - ML & Viz (Tableau)
  - Christy - ML & Viz (Tableau)
  - Daniel - SQL
  - Warren - ETL and assist where needed
 
-
+## Goals for 3/15 & week
+ - Charging Times dataset - WH
+ - Determine a possible 5th datapoint & corresponding dataset - WH
+ - Gas datasets corresponding to EV datapoints - WH & RD
 
 
 ### Due Dates: 

@@ -21,6 +21,7 @@
 https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
  - Future Sales by vehicle type
  - Average Emissions Data by type
+ - Electric Range vs gas range
 
 
 

@@ -26,8 +26,8 @@ https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
 
 ## Duties
  - Ryan - ETL
- - Nick - ML & Viz...
- - Christy - ML & Viz...
+ - Nick - ML & Viz (Tableau)
+ - Christy - ML & Viz (Tableau)
  - Daniel - SQL
  - Warren - ETL and assist where needed
 

@@ -33,6 +33,10 @@ https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
 
 ## Goals for 3/15 & week
  - Charging Times dataset - WH
+   - This might take some additional manipulation to the washington EV dataset but could use this generic power chargers to add to the table.  We could breakout it out by manufacturer and assign a Connector type and than affiliated charging times and ranges... 
+https://www.transportation.gov/rural/ev/toolkit/ev-basics/charging-speeds
+
+
  - Determine a possible 5th datapoint & corresponding dataset - WH
  - Gas datasets corresponding to EV datapoints - WH & RD
 

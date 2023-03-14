@@ -24,6 +24,14 @@ https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
  - Electric Range vs gas range
 
 
+## Duties
+Ryan - ETL
+Nick - ML & Viz...
+Christy - ML & Viz...
+Daniel - SQL
+Warren - ETL and assist where needed
+
+
 
 
 ### Due Dates: 

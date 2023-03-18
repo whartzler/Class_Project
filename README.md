@@ -5,7 +5,7 @@
 - [x] Decide on a topic for the project—that is, think of a question that using data can answer
 - [x] Source a dataset or, if applicable, multiple datasets that will suit your needs.
 - [ ] Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis.
-  - ETL on ETL on FCV Dataset.ipynb is a cleaned copy of the dataset.
+  - ETL on FCV Dataset.ipynb is a cleaned copy of the dataset and provides export to export folder
   - perform some EDA.
 - [ ] Include mock-ups of a machine learning model and a database
 

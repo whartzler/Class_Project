@@ -8,14 +8,38 @@
 - [ ] Include mock-ups of a machine learning model and a database
 
 ### Project Ideas
-1. Electronic Vehicle Future???
+1. Electronic Vehicle Future involve some statistics/analysis vs Gas Vehicles
   - Regression model on CO2 emmisions based on increased EV usage
   - Regression on number of EV charging stations over time
+    - Nicks Dataset - Stations folder:  EV Stations.CSV   
+  - Predict future sales by EV Type
+  - Charging times Year over Year
+  - How much of the market is EV vs Gas vehicles
 
 ### EV Vehicle Impact
+
+#### Washington Dataset
 https://data.wa.gov/Transportation/Electric-Vehicle-Population-Data/f6w7-q2d2
+ - Future Sales by vehicle type
+ - Average Emissions Data by type
+ - Electric Range vs gas range
 
 
+## Things people wanna do
+ - Ryan - ETL
+ - Nick - ML & Viz (Tableau)
+ - Christy - ML & Viz (Tableau)
+ - Daniel - SQL
+ - Warren - ETL and assist where needed
+
+## Goals for 3/15 & week
+ - Charging Times dataset - WH
+   - This might take some additional manipulation to the washington EV dataset but could use this generic power chargers to add to the table.  We could breakout it out by manufacturer and assign a Connector type and than affiliated charging times and ranges... 
+https://www.transportation.gov/rural/ev/toolkit/ev-basics/charging-speeds
+
+
+ - Determine a possible 5th datapoint & corresponding dataset - WH
+ - Gas datasets corresponding to EV datapoints - WH & RD
 
 
 ### Due Dates: 

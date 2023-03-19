@@ -1,5 +1,19 @@
 # Class_Project
 
+## Objective
+Based on the data we want to identify Current FCV & BEV Owners Demographics and see if there are any major differences between the two car owners.
+For our ML model we will attemp to predict based on the information if we can identify the customer as a FCV or BEV owner.
+
+## Description of the Data
+This dataset presents results from a survey of FCV and BEV owners over the course of 2015 - 2017 to compare the sociodeographic profile of FCV buyers vs BEV Households.
+
+## Questions to answer
+1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
+2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
+    -  Male or Female the Primiary Customers of each type of Vehicle
+    - 
+    
+
 ## Segment 1
 - [x] Create a repository for the project, and then invite the other team members to join it.
 - [x] Decide on a topic for the project—that is, think of a question that using data can answer

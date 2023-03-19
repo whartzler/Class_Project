@@ -10,8 +10,9 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
 ## Questions to answer
 1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
 2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
-    -  Male or Female the Primiary Customers of each type of Vehicle
-    - 
+    -  Male or Female the Primiary Customers of each type of Vehicle Type
+    - Any similarities/differences between the customer home and education demoggraphics
+    - Any similarities/differences between the customer car useage
     
 
 ## Segment 1

@@ -8,7 +8,7 @@ Based on the data we want to identify Current FCV & BEV Owners Demographics and 
 For our ML model we will attemp to predict based on the information if we can identify the customer as a FCV or BEV owner.
 
 ## Description of the Data
-This dataset presents results from a survey of FCV and BEV owners over the course of 2015 - 2017 to compare the sociodeographic profile of FCV buyers vs BEV Households.
+This dataset presents results from a survey of FCV and BEV owners over the course of 2015 - 2017 to compare the sociodeographic profile of FCV and BEV owners.
 
 ## Questions to answer
 1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner

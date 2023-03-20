@@ -40,8 +40,9 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
  - Segment 3: April 5th! & Final day of class
 
 
-Things to Think About
-- what to do about all the missing data?
+**Things to Think About**
+- What to do about all the missing data?
 - There are a few columns we need to figure out what values mean (Education, 1-4).
 - Which columns are we dropping...although I think Ryan has this figured out for us. 
 - So the target column is the VEH, BEV dummy?? There are 2 values 1 or 0. Which matchs to VEH and which to BEV?
+- Should we convert the date column to a datetime data type?

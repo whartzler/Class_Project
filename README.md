@@ -38,3 +38,10 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
  - Segment 1: March 22nd 
  - Segment 2: March 29
  - Segment 3: April 5th! & Final day of class
+
+
+Things to Think About
+- what to do about all the missing data?
+- There are a few columns we need to figure out what values mean (Education, 1-4).
+- Which columns are we dropping...although I think Ryan has this figured out for us. 
+- So the target column is the VEH, BEV dummy?? There are 2 values 1 or 0. Which matchs to VEH and which to BEV?

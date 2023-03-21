@@ -27,6 +27,16 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
   - perform some EDA.
 - [ ] Include mock-ups of a machine learning model and a database
 
+### Next Steps
+1. ETL Group
+    - Determine Null values and see how we should treat them
+    - Update the Manufacturer Names
+2. ML Group
+    - Mock up models
+        - Decision Trees
+        - Random Forest
+        - Boosting
+    
 ## Things people wanna do
  - Ryan - ETL
  - Nick - ML & Viz (Tableau)

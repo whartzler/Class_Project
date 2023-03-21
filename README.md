@@ -56,9 +56,20 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
  - Segment 3: April 5th! & Final day of class
 
 
-**Things to Think About**
-- What to do about all the missing data?
-- There are a few columns we need to figure out what values mean (Education, 1-4).
-- Which columns are we dropping...although I think Ryan has this figured out for us. 
-- So the target column is the VEH, BEV dummy?? There are 2 values 1 or 0. Which matchs to VEH and which to BEV?
-- Should we convert the date column to a datetime data type?
+**Things to Think About For Wednesday**
+
+Our Model evaluation criterion
+
+The model can make two types of wrong predictions:
+
+1 = Client purchasing a VEH, 0 = Client purchases a BEV
+
+Predicting an client will buy an VEH when the client buys an BEV
+Predicting an client will not VEH when the client actually does buy a VEH 
+
+Consider which of the following metrics should be used:
+
+- Accuracy, Recall, Precision
+- F1 Score
+- Receiving Operating Characteristics(ROC),Area under the Curve(AUC)
+- Log Loss

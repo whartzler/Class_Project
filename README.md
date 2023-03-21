@@ -29,9 +29,10 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
 
 ### Next Steps
 1. ETL Group
-    - Update the Manufacturer Names - NS
     - Review the datatypes...
     - Outliers review
+    - EDA 
+        - HeatMaps
 2. ML Group
     - Mock up models
         - Decision Trees

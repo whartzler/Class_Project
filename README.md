@@ -32,7 +32,9 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
     - Review the datatypes...
     - Outliers review
     - EDA 
-        - HeatMaps
+        - HeatMaps correlation
+        - Outliers and histograms
+        - Linear Regression...
 2. ML Group
     - Mock up models
         - Decision Trees

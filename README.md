@@ -32,6 +32,7 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
     - Determine Null values and see how we should treat them
     - Update the Manufacturer Names
     - Review the datatypes...
+    - Outliers review
 2. ML Group
     - Mock up models
         - Decision Trees

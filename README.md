@@ -36,6 +36,8 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
         - Decision Trees
         - Random Forest
         - Boosting
+3. Databases
+    - Finalize the Excel export for Daniel 
     
 ## Things people wanna do
  - Ryan - ETL

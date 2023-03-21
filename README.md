@@ -27,6 +27,19 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
   - perform some EDA.
 - [ ] Include mock-ups of a machine learning model and a database
 
+### Next Steps
+1. ETL Group
+    - Update the Manufacturer Names - NS
+    - Review the datatypes...
+    - Outliers review
+2. ML Group
+    - Mock up models
+        - Decision Trees
+        - Random Forest
+        - Boosting
+3. Databases
+    - Finalize the Excel export for Daniel 
+    
 ## Things people wanna do
  - Ryan - ETL
  - Nick - ML & Viz (Tableau)
@@ -38,3 +51,11 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
  - Segment 1: March 22nd 
  - Segment 2: March 29
  - Segment 3: April 5th! & Final day of class
+
+
+**Things to Think About**
+- What to do about all the missing data?
+- There are a few columns we need to figure out what values mean (Education, 1-4).
+- Which columns are we dropping...although I think Ryan has this figured out for us. 
+- So the target column is the VEH, BEV dummy?? There are 2 values 1 or 0. Which matchs to VEH and which to BEV?
+- Should we convert the date column to a datetime data type?

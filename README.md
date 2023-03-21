@@ -64,8 +64,8 @@ The model can make two types of wrong predictions:
 
 1 = Client purchasing a VEH, 0 = Client purchases a BEV
 
-Predicting an client will buy an VEH when the client buys an BEV
-Predicting an client will not VEH when the client actually does buy a VEH 
+-Predicting an client will buy an VEH when the client buys an BEV
+-Predicting an client will not VEH when the client actually does buy a VEH 
 
 Consider which of the following metrics should be used:
 

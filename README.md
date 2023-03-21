@@ -29,7 +29,6 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
 
 ### Next Steps
 1. ETL Group
-    - Determine Null values and see how we should treat them
     - Update the Manufacturer Names - NS
     - Review the datatypes...
     - Outliers review

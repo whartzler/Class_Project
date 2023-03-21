@@ -31,6 +31,7 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
 1. ETL Group
     - Determine Null values and see how we should treat them
     - Update the Manufacturer Names
+    - Review the datatypes...
 2. ML Group
     - Mock up models
         - Decision Trees

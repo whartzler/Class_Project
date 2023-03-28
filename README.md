@@ -37,9 +37,9 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
     
 
 ## Segment 2
-- [x] A detailed README.md file that includes the project status, images, descriptions, and results
-- [x] A machine learning model, including a confusion matrix and accuracy score 
-- [x] Database that stores data for the project with at least two tables or collections
+- [ ] A detailed README.md file that includes the project status, images, descriptions, and results
+- [ ] A machine learning model, including a confusion matrix and accuracy score 
+- [ ] Database that stores data for the project with at least two tables or collections
 - [ ] Selected topic and the reasoning for that selection (2 points)
 - [ ] Description of the data (3 points)
 - [ ] Questions that the team originally planned to answer with the project (2 points)

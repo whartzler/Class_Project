@@ -28,7 +28,7 @@ After our data was successfully cleaned, we turned our attention to creating mac
 ## Data Exploration & Analysis
 ### Data Exploration
 ### Data Analysis
-Useing a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurace picture of what the data represents. 
+Using a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurace picture of what the data represents. Utilizing Jupyter Notebooks we analyzed the dataset to review and outliers and to 
 
 ## Technologies 
 

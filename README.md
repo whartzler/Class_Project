@@ -22,7 +22,7 @@ After our data was successfully cleaned, we turned our attention to creating mac
 Citation of the dataset: 
 Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313
 
-============================================================================================
+<hr>
 
 ## Why this Project
 We wanted to look at the future of electronic and fuel cell vehicles and research the demographic for each and determine if there are any differences in the customer base that purchased these vehicles.  

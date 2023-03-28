@@ -20,6 +20,8 @@ In order to produce a working machine learning model that can predict whether a 
 ## ML Models
 After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
 
+- Confusion Matrix and Accuracy Score screenshot
+
 ## Tableau Visualizations & Results
 [paragraph discussing the data visualizations with Tableau]
 
@@ -53,7 +55,17 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 - [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps
-    
+- ML Team 
+  - Christy to add the Screenshots for (Confusion Matrix and Accuracy Score)
+
+- Project Template Cleanup WH
+- Screenshots of Tableau to Answer Questions - WH
+- Readme Team 
+
+- Database DA
+
+
+
 ### Due Dates: 
  - Segment 1: March 22nd 
  - Segment 2: March 29

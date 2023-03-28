@@ -4,7 +4,3 @@ FROM FCV
 WHERE household_income > 250000
 GROUP BY manufacturer, model
 ORDER BY avg_income DESC;
-
-select * from top_income
-
-drop table top_income

@@ -4,7 +4,7 @@
 As the world shifts its focus from the traditional fossil fuel-powered vehicle towards an eco-friendlier stance, electric vehicles (EVs) have begun to take center stage.  Because of this rapidly changing global demeanor relative to the automobile industry, it was only natural that we were interested in doing a project involving EVs.  Given that EVs are becoming so prevalent in today’s society, there are many different types of EVs to consider.  For example, battery electric vehicles (BEVs) are vehicles that produce power via an electric motor that runs on large rechargeable battery packs, plug-in hybrid electric vehicles (PHEVs) are vehicles that run on both gasoline and battery packs that are recharged via an external source, fuel-cell vehicles (FCVs) are vehicles that generate electricity via electrical and chemical processes that involve converting hydrogen and oxygen into usable electricity for the vehicle to operate, etc.  As we can see, the scope of discussion can be very broad.  So, our goal with this project was to pinpoint a specific question that was capable of being answered with the datasets at our disposal.  
 
 ## Goal
-The goal of this project is to determine if we could create a machine learning model that could predict if the vehicle purchaes is an FCV or a BEV based on a range of sociodemographic data and determine if there are any similar demographics between FCV and BEV owners.
+The goal of this project is to create a machine learning model that can predict if the vehicle purchased is either FCV or a BEV based on a range of sociodemographic data and determine if there are any similar demographics between FCV and BEV owners.
 
 
 ## Data

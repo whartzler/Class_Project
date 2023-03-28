@@ -42,38 +42,21 @@ This dataset presents results from a survey of FCV and BEV owners over the cours
     - Any similarities/differences between the customer car useage
     
 
-## Segment 1
-- [x] Create a repository for the project, and then invite the other team members to join it.
-- [x] Decide on a topic for the project—that is, think of a question that using data can answer
-- [x] Source a dataset or, if applicable, multiple datasets that will suit your needs.
-- [ ] Begin to clean, organize, and perform an exploratory data analysis on your datasets so that they're ready for analysis.
-  - ETL on FCV Dataset.ipynb is a cleaned copy of the dataset and provides export to export folder
-  - perform some EDA.
-- [ ] Include mock-ups of a machine learning model and a database
+## Segment 2
+- [ ] A detailed README.md file that includes the project status, images, descriptions, and results
+- [ ] A machine learning model, including a confusion matrix and accuracy score 
+- [ ] Database that stores data for the project with at least two tables or collections
+- [ ] Selected topic and the reasoning for that selection
+- [ ] Description of the data
+- [ ] Questions that the team originally planned to answer with the project
+- [ ] Description of the data exploration phase of the project
+- [ ] Description of the analysis phase of the project
+- [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps
-1. ETL Group
-    - Review the datatypes...
-    - Outliers review
-    - EDA 
-        - HeatMaps correlation
-        - Outliers and histograms
-        - Linear Regression...
-2. ML Group
-    - Mock up models
-        - Decision Trees
-        - Random Forest
-        - Boosting
-3. Databases
-    - Finalize the Excel export for Daniel 
-    
-## Things people wanna do
- - Ryan - ETL
- - Nick - ML & Viz (Tableau)
- - Christy - ML & Viz (Tableau)
- - Daniel - SQL
- - Warren - ETL and assist where needed
 
+### Next Steps
+    
 ### Due Dates: 
  - Segment 1: March 22nd 
  - Segment 2: March 29

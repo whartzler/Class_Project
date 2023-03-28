@@ -42,10 +42,10 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 ## Questions to answer
 1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
 2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
-    -  Male or Female the Primiary Customers of each type of Vehicle Type
-    - Any similarities/differences between the customer home and education demoggraphics
-    - Any similarities/differences between the customer car useage
-    
+    - Male or Female the Primiary Customers of each type of Vehicle Type
+    - Any similarities/differences between the customer home and education demographics
+    - Any similarities/differences between the customer car useage   
+    - Review additional Demographics... 
 
 ## Segment 2
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results
@@ -59,11 +59,12 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 - [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps
-- Christy to add the Screenshots for (Confusion Matrix and Accuracy Score)
+- Christy to update ML Section Screenshots for (Confusion Matrix and Accuracy Score)
+  - ML Model in Tableau
 - Project Template Cleanup - WH
 - Screenshots of Tableau to Answer Questions & Dashboard - WH
-- Readme Team 
-- Database DA
+- Readme Team (Ryan)
+- Database - DA
 
 
 

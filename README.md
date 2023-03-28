@@ -20,7 +20,7 @@ In order to produce a working machine learning model that can predict whether a 
 ## ML Models
 After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
 
-- Confusion Matrix and Accuracy Score screenshot
+- Confusion Matrix and Accuracy Score screenshot (and description of confusion matrix)
 
 ## Tableau Visualizations & Results
 [paragraph discussing the data visualizations with Tableau]

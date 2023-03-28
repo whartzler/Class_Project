@@ -59,13 +59,10 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 - [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps
-- ML Team 
-  - Christy to add the Screenshots for (Confusion Matrix and Accuracy Score)
-
-- Project Template Cleanup WH
+- Christy to add the Screenshots for (Confusion Matrix and Accuracy Score)
+- Project Template Cleanup - WH
 - Screenshots of Tableau to Answer Questions & Dashboard - WH
 - Readme Team 
-
 - Database DA
 
 

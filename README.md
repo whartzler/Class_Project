@@ -29,16 +29,6 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 
 <hr>
 
-## Why this Project
-We wanted to look at the future of electronic and fuel cell vehicles and research the demographic for each and determine if there are any differences in the customer base that purchased these vehicles.  
-
-## Objective
-Based on the data we want to identify Current FCV & BEV Owners Demographics and see if there are any major differences between the two car owners.
-For our ML model we will attemp to predict based on the information if we can identify the customer as a FCV or BEV owner.
-
-## Description of the Data
-This dataset presents results from a survey of FCV and BEV owners over the course of 2015 - 2017 to compare the sociodeographic profile of FCV and BEV owners.
-
 ## Questions to answer
 1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
 2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities

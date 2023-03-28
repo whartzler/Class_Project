@@ -5,18 +5,24 @@ As the world shifts its focus from the traditional fossil fuel-powered vehicle t
 							
 The dataset we chose to use for this project contains results from a survey of FCV and BEV owners from California households over a two-year period, namely 2015 – 2017.  This [dataset](https://doi.org/10.25338/B8P313) has an accompanying [article](https://escholarship.org/uc/item/866706mr) that thoroughly explains how the producers of the data acquired the information, as well as a comprehensive analysis of the data itself.   Our citation of the dataset that accompanies this article is given at the bottom of this page.
 
+## Cleaning the Data
 In order to produce a working machine learning model that can predict whether a consumer was a purchaser of an FCV or a BEV, we first had to clean the data.  To do this, we first loaded the dataset into a Jupyter Notebook file and began implementing a typical data cleansing routine.  This routine consisted of familiarizing ourselves with the data by examining the number of rows (27,021) and the number of columns (25), as well as determining what types of data were available to work with.  The columns of the data consisted of sociodemographic information such as a consumer’s household income, education level, age, gender, how important the consumer felt reducing greenhouse gas emissions were, etc.  After reviewing the data that was available, we began preparing the data for a machine learning model by correcting misspelled values, dropping null values, eliminating significant outliers, and encoding values that were to be ultimately placed into the machine learning model. 
-[place this paragraph in results section with images of each major data cleaning step?]
+[images of significant data cleaning steps]
 
-[paragraph discussing the SQL database]
+## Creating the Database
+[paragraph discussing the AWS database & its potential uses]
 
-[paragraph discussing the data visualizations with Tableau]
-
+## ML Models
 After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
+
+## Tableau Visualizations & Results
+[paragraph discussing the data visualizations with Tableau]
 
 ## References
 Citation of the dataset: 
 Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313
+
+============================================================================================
 
 ## Why this Project
 We wanted to look at the future of electronic and fuel cell vehicles and research the demographic for each and determine if there are any differences in the customer base that purchased these vehicles.  

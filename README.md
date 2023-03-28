@@ -63,7 +63,7 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
   - Christy to add the Screenshots for (Confusion Matrix and Accuracy Score)
 
 - Project Template Cleanup WH
-- Screenshots of Tableau to Answer Questions - WH
+- Screenshots of Tableau to Answer Questions & Dashboard - WH
 - Readme Team 
 
 - Database DA

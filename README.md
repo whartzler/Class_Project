@@ -25,6 +25,10 @@ After our data was successfully cleaned, we turned our attention to creating mac
 ## Tableau Visualizations & Results
 [paragraph discussing the data visualizations with Tableau]
 
+## Data Exploration & Analysis
+### Data Exploration
+### Data Analysis
+
 ## Technologies 
 
 ## File Guide 

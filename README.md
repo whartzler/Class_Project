@@ -23,6 +23,10 @@ After our data was successfully cleaned, we turned our attention to creating mac
 ## Tableau Visualizations & Results
 [paragraph discussing the data visualizations with Tableau]
 
+## Technologies 
+
+## File Guide 
+
 ## References
 Citation of the dataset: 
 Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313

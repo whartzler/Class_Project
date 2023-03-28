@@ -11,11 +11,13 @@ The goal of this project is to create a machine learning model that can predict 
 The dataset we chose to use for this project contains results from a survey of FCV and BEV owners from California households from 2015 – 2017.  This [dataset](https://doi.org/10.25338/B8P313) has an accompanying [article](https://escholarship.org/uc/item/866706mr) that thoroughly explains how the producers of the data acquired the information, as well as a comprehensive analysis of the data itself.   Our citation of the dataset that accompanies this article is given at the bottom of this page.
 
 ## Cleaning the Data
-In order to produce a working machine learning model that can predict whether a consumer was a purchaser of an FCV or a BEV, we first had to clean the data.  To do this, we first loaded the dataset into a Jupyter Notebook file and began implementing a typical data cleansing routine.  This routine consisted of familiarizing ourselves with the data by examining the number of rows (27,021) and the number of columns (25), as well as determining what types of data were available to work with.  The columns of the data consisted of sociodemographic information such as a consumer’s household income, education level, age, gender, how important the consumer felt reducing greenhouse gas emissions were, etc.  After reviewing the data that was available, we began preparing the data for a machine learning model by correcting misspelled values, dropping null values, eliminating significant outliers, and encoding values that were to be ultimately placed into the machine learning model. 
-[images of significant data cleaning steps]
+In order to produce a working machine learning model that can predict whether a consumer was a purchaser of an FCV or a BEV, we first had to clean the data.  This process initially consisted of familiarizing ourselves with the data by examining the number of rows and the number of columns, as well as determining what types of data were available to work with.  The columns of the data consist of sociodemographic information such as a consumer’s household income, education level, age, gender, how important the consumer felt reducing greenhouse gas emissions were, etc.  After reviewing the data, we began preparing the data for a machine learning model by correcting misspelled values, dropping null values, and eliminating significant outliers.
+
+First, we loaded in the dataset and viewed its dimensions, and we found that our original data had 27,021 rows and 25 columns.  Then, after correcting the spelling of several column names and removing several columns that were not needed, we dropped all rows containing null values.  This resulted in a significantly smaller dataset, one with 4,709 rows and 24 columns.  After dropping the null values, we found that our data had an extremely large amount of variance (discussed more in the Data Exploration & Analysis section).  Due to this, we further reduced our dataset to 3,503 rows by removing all the data points that were beyond two standard deviations from their respective means.  Once the data was adequately cleaned, we shifted our attention towards further components of the project, as described below.
+
 
 ## Creating the Database
-[paragraph discussing the AWS database & its potential uses]
+[paragraph discussing the SQL database & its potential uses]
 
 ## ML Models
 After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
@@ -28,7 +30,7 @@ After our data was successfully cleaned, we turned our attention to creating mac
 ## Data Exploration & Analysis
 ### Data Exploration
 ### Data Analysis
-Using a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurace picture of what the data represents. Utilizing Jupyter Notebooks we analyzed the dataset to review and outliers and to 
+Using a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurate picture of what the data represents. Utilizing Jupyter Notebooks we analyzed the dataset to review and outliers and to 
 
 ## Technologies 
 

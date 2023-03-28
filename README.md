@@ -49,8 +49,6 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 - [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps
-
-### Next Steps
     
 ### Due Dates: 
  - Segment 1: March 22nd 

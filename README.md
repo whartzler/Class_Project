@@ -32,7 +32,11 @@ After our data was successfully cleaned, we turned our attention to creating mac
 ### Data Analysis
 Using a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurate picture of what the data represents. Utilizing Jupyter Notebooks we analyzed the dataset to review and remove outliers that will sway the data.  Primarily we used Tableau and Matplotlib to visualize the data to better understand the customer base for each vehicle type.  
 
-## Technologies 
+## Technologies
+- Python
+- Tableau, Matplotlib and Seaborn Libraries for Data Visualization/Analysis
+- Numpy for statistics and data cleaning
+
 
 ## File Guide 
 

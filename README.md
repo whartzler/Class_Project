@@ -39,12 +39,15 @@ Using a combination of Jupyter Notebooks & Tableau to review and visualize the d
 
 
 ## File Guide 
-* [EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
-* [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/Story1?publish=yes)
+- [EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
+- [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/Story1?publish=yes)
+- [ML Model](https://github.com/whartzler/Class_Project/blob/main/ML_Models/ML_Project.ipynb)
+- [Export of Cleaned Dataset](https://github.com/whartzler/Class_Project/tree/main/Exports)
 
 ## References
 Citation of the dataset: 
 Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313
+
 
 <hr>
 

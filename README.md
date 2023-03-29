@@ -39,6 +39,7 @@ Using a combination of Jupyter Notebooks & Tableau to review and visualize the d
 
 
 ## File Guide 
+[EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
 
 ## References
 Citation of the dataset: 

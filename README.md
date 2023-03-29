@@ -63,11 +63,11 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results
 - [ ] A machine learning model, including a confusion matrix and accuracy score 
 - [ ] Database that stores data for the project with at least two tables or collections
-- [ ] Selected topic and the reasoning for that selection
-- [ ] Description of the data
+- [x] Selected topic and the reasoning for that selection
+- [x] Description of the data
 - [ ] Questions that the team originally planned to answer with the project
 - [ ] Description of the data exploration phase of the project
-- [ ] Description of the analysis phase of the project
+- [x] Description of the analysis phase of the project
 - [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
 
 ### Next Steps

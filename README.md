@@ -378,21 +378,26 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
       <th>Predicted/Actual</th>
       <th>FCV (1)</th>
       <th>BEV (0)</th>
-      <th></th>
     </tr>
-      <tr style="text-align: right;">
-          <th> FCV (1)</th>
-      </tr>
-      <tr style="text-align: right;">
-          <th> BEV (0)</th>
-      </tr>
+    <tr style="text-align: right;">
+      <th> FCV (1)</th>
+     </tr>
+     <tr style="text-align: right;">
+       <th> BEV (0)</th>
+     </tr>
   </thead>
   <tbody>
-   
+     <tr> 
+       <td> TP </td>
+       <td> FP </td>
+     </tr>
+     <tr> 
+       <td> FN </td>
+       <td> TN </td>
+      </tr>
+   </tbody>
+</table>
  
-
-
-
 ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix
 
 <br>

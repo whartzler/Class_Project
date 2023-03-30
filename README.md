@@ -75,7 +75,104 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
     
 ### FCV/BEV Dataset - Preprocessed Oversampling
 <br>
-<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="763" height="274">
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Model</th>
+      <th>Train_Accuracy</th>
+      <th>Test_Accuracy</th>
+      <th>Train_Recall</th>
+      <th>Test_Recall</th>
+      <th>Train_Precision</th>
+      <th>Test_Precision</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Logistical Regression</td>
+      <td>0.975728</td>
+      <td>0.971691</td>
+      <td>0.997442</td>
+      <td>0.998509</td>
+      <td>0.977444</td>
+      <td>0.972404</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Decision Tree</td>
+      <td>1.000000</td>
+      <td>0.998585</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Tuned Decision Tree</td>
+      <td>0.993022</td>
+      <td>0.990800</td>
+      <td>0.999680</td>
+      <td>0.999254</td>
+      <td>0.993014</td>
+      <td>0.991124</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Random Forest</td>
+      <td>1.000000</td>
+      <td>0.992215</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.992593</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Random Forest w/weights</td>
+      <td>1.000000</td>
+      <td>0.992215</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.992593</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Tuned Random Forest</td>
+      <td>0.980886</td>
+      <td>0.973815</td>
+      <td>0.999680</td>
+      <td>0.999254</td>
+      <td>0.980558</td>
+      <td>0.973837</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>XGBoost</td>
+      <td>1.000000</td>
+      <td>0.998585</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Tuned XGBoost</td>
+      <td>0.999393</td>
+      <td>0.999292</td>
+      <td>0.999361</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
  <br>
     
   <hr>

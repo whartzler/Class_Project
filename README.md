@@ -381,20 +381,16 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
     </tr>
     <tr style="text-align: right;">
       <th> FCV (1)</th>
+         <td> TP </td>
+         <td> FP </td>
      </tr>
      <tr style="text-align: right;">
        <th> BEV (0)</th>
+         <td> FN </td>
+         <td> TN </td>
      </tr>
   </thead>
   <tbody>
-     <tr> 
-       <td> TP </td>
-       <td> FP </td>
-     </tr>
-     <tr> 
-       <td> FN </td>
-       <td> TN </td>
-      </tr>
    </tbody>
 </table>
  

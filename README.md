@@ -64,9 +64,9 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 ## **ML Model Overview**
 <hr>
 
- <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="600" height="400">
+ <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png">
  
-<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="600" height="400">
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="1000" height="500">
   
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="600" height="400">
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results

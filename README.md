@@ -164,7 +164,9 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 </div>
 
 <br>  
+
 ### FCV/BEV Dataset - Preprocessed without Outliers
+
 <br>
 <table border="1" class="dataframe">
   <thead>
@@ -264,7 +266,9 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 </table>
 </div>
 <br>  
+
 ### FCV/BEV Dataset - Preprocessed Oversampling
+
 <br>
 <table border="1" class="dataframe">
   <thead>

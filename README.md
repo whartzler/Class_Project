@@ -393,21 +393,23 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
    </tbody>
 </table>
 
+**The Tuned XGBoost Model with the Oversampled Data was chosen as the best model.**
+
 The model is predicting whether a car is a battery electric vehicle (BEV - 0) or a fuel cell vehicle (FCV - 1) based on buyer demographics.
 
 **Model evaluation criteria:**
 The model can make two types of wrong predictions:
-	1.	Predicting the car is a FEV when it’s really a BEV (FP - Type I Error)
-	2.	Predicting the car is a BEV when it’s really a FEV  (FN - Type II Error)
+1. Predicting the car is a FEV when it’s really a BEV (FP - Type I Error)
+2. Predicting the car is a BEV when it’s really a FEV  (FN - Type II Error)
 
 **Which case is more important?**
 	In this case they are the same. We want to maximize the accuracy of both classes (positive and negative), how many of both positive and negative has the model predicted correctly. Accuracy should be high as possible.
 
-The confusion matrix gets 168 (TP), 0 (FP), and 2 (FN), 3126 (FN). 
+The performance of the test set confusion matrix gets 72 (TP), 0 (FP), and 1 (FN), 1340 (FN). 
 
-Accuracy = (168 + 3126)/ (168 + 0 + 2 + 3126) =  .9993 
+Accuracy = (72 + 1340)/ (72 + 0 + 1 + 1340) =  .9992 
 
-The Tuned XGBoost Model can correctly predict with 99% accuracy whether the car is a FEV or BEV based on buyer demographics.
+The Tuned XGBoost Model can correctly predict with a 99% accuracy whether the car is a FEV or BEV based on buyer demographics.
 
  
 ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix

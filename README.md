@@ -62,20 +62,17 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 ## Segment 2
 
 ## **ML Model Overview**
-<hr>
 
- <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png">
- 
-<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png">
-  
- <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" >
- 
- <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" > 
- 
- <hr>
+
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png">
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png">
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" >
+  <hr>
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" width="550" height="155" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train2.png" > 
-   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_Test2.png" > 
-    <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_Test.png" > 
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test2.png" width="550" height="155" > 
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test.png" > 
+  <hr>
  
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results
 - [ ] A machine learning model, including a confusion matrix and accuracy score 

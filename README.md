@@ -3,11 +3,12 @@
 ## Overview of Project
 As the world shifts its focus from the traditional fossil fuel-powered vehicle towards an eco-friendlier stance, electric vehicles (EVs) have begun to take center stage.  Because of this rapidly changing global demeanor relative to the automobile industry, it was only natural that we were interested in doing a project involving EVs.  Given that EVs are becoming more and more prevalent in today’s society, there are many different types of EVs to consider.  For example, Battery Electric Vehicles (BEVs) are vehicles that are powered by an electric motor, Plug-in Hybrid Electric Vehicles (PHEVs) are vehicles that have two motors that run on both gasoline and electricity, and Fuel-Cell Vehicles (FCVs) utilize energy stored as hydrogen that gets converted to electricity by a fuel cell.  
 
-## Data
-The dataset used for this project presents results from a survey conducted from 2015 - 2017 of 906 FCV and 12,910 BEV owners in California. The study investigated the sociodemographic profiles of FCV and BEV buyers.  The [dataset](https://doi.org/10.25338/B8P313) has an accompanying [article](https://escholarship.org/uc/item/866706mr) that thoroughly explains how the producers of the data acquired the information, as well as a comprehensive analysis of the data itself. 
-
 ## Goal
 The goal of this project is to create a machine learning model that can predict if the vehicle purchased is either FCV or a BEV based on a range of sociodemographic data and determine if there are any similar demographics between FCV and BEV owners.
+
+
+## Data
+The dataset used for this project presents results from a survey conducted from 2015 - 2017 of 906 FCV and 12,910 BEV owners in California. The study investigated the sociodemographic profiles of FCV and BEV buyers.  The [dataset](https://doi.org/10.25338/B8P313) has an accompanying [article](https://escholarship.org/uc/item/866706mr) that thoroughly explains how the producers of the data acquired the information, as well as a comprehensive analysis of the data itself. 
 
 ## Cleaning the Data
 In order to produce a working machine learning model that can predict whether a consumer was a purchaser of an FCV or a BEV, we first had to clean the data.  This process consisted of familiarizing ourselves with the data by examining the number of rows and the number of columns, as well as determining what types of data were available to work with.  The columns of the data consist of sociodemographic information such as a consumer’s household income, education level, age, gender, how important the consumer felt reducing greenhouse gas emissions were, etc.  After reviewing the data, we began preparing the data for a machine learning model by correcting misspelled values, dropping null values, and eliminating significant outliers.
@@ -370,6 +371,8 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
  <br>
     
   <hr>
+  ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix
+  <br>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" width="550" height="155" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train2.png" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test2.png" width="550" height="155" > 

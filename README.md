@@ -40,7 +40,7 @@ We used a combination of Jupyter Notebooks & Tableau to review and visualize the
 
 ## File Guide 
 - [EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
-- [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/Story1?publish=yes)
+- [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/FCVvsBEVCustomerReview)
 - [ML Model](https://github.com/whartzler/Class_Project/blob/main/ML_Models/ML_Project.ipynb)
 - [Export of Cleaned Dataset](https://github.com/whartzler/Class_Project/tree/main/Exports)
 

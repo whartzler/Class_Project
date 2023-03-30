@@ -65,7 +65,104 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 
 ### FCV/BEV Dataset - Preprocessed with Outliers
 <br>
-<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="763" height="274">
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Model</th>
+      <th>Train_Accuracy</th>
+      <th>Test_Accuracy</th>
+      <th>Train_Recall</th>
+      <th>Test_Recall</th>
+      <th>Train_Precision</th>
+      <th>Test_Precision</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>Logistical Regression</td>
+      <td>0.954187</td>
+      <td>0.953999</td>
+      <td>0.998721</td>
+      <td>0.998509</td>
+      <td>0.955060</td>
+      <td>0.955064</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Decision Tree</td>
+      <td>1.000000</td>
+      <td>0.998585</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Tuned Decision Tree</td>
+      <td>0.992415</td>
+      <td>0.990800</td>
+      <td>0.999041</td>
+      <td>0.999254</td>
+      <td>0.993009</td>
+      <td>0.991124</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Random Forest</td>
+      <td>1.000000</td>
+      <td>0.990800</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.991124</td>
+    </tr>
+    <tr>
+      <th>4</th>
+      <td>Random Forest w/weights</td>
+      <td>1.000000</td>
+      <td>0.992215</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.992593</td>
+    </tr>
+    <tr>
+      <th>5</th>
+      <td>Tuned Random Forest</td>
+      <td>0.949029</td>
+      <td>0.949045</td>
+      <td>1.000000</td>
+      <td>1.000000</td>
+      <td>0.949029</td>
+      <td>0.949045</td>
+    </tr>
+    <tr>
+      <th>6</th>
+      <td>XGBoost</td>
+      <td>1.000000</td>
+      <td>0.998585</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+    </tr>
+    <tr>
+      <th>7</th>
+      <td>Tuned XGBoost</td>
+      <td>0.999393</td>
+      <td>0.998585</td>
+      <td>0.999680</td>
+      <td>0.999254</td>
+      <td>0.999680</td>
+      <td>0.999254</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+
 <br>
   
 ### FCV/BEV Dataset - Preprocessed without Outliers

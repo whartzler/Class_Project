@@ -65,16 +65,19 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 
 ### FCV/BEV Dataset - Preprocessed with Outliers
 <br>
-  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="763" height="274">
-  <br>
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="763" height="274">
+<br>
+  
 ### FCV/BEV Dataset - Preprocessed without Outliers
 <br>
-  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="763" height="274">
-    <br>
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="763" height="274">
+<br>
+    
 ### FCV/BEV Dataset - Preprocessed Oversampling
 <br>
-  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="763" height="274">
-    <br>
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="763" height="274">
+ <br>
+    
   <hr>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" width="550" height="155" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train2.png" > 

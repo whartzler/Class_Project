@@ -393,6 +393,10 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
   <tbody>
    </tbody>
 </table>
+
+The model is predicting whether a car is a battery electric vehicle (BEV - 0) or a fuel cell vehicle (FCV - 1) based on buyer demographics.
+
+
  
 ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix
 

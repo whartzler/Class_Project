@@ -369,6 +369,30 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 </div>
 <br>
 
+### Understanding the Confusion Matrix
+
+
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Predicted/Actual</th>
+      <th>FCV (1)</th>
+      <th>BEV (0)</th>
+      <th></th>
+    </tr>
+      <tr style="text-align: right;">
+          <th> FCV (1)</th>
+      </tr>
+      <tr style="text-align: right;">
+          <th> BEV (0)</th>
+      </tr>
+  </thead>
+  <tbody>
+   
+ 
+
+
+
 ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix
 
 <br>

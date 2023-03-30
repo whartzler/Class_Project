@@ -68,9 +68,11 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="763" height="274">
   <br>
 ### FCV/BEV Dataset - Preprocessed without Outliers
+<br>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="763" height="274">
     <br>
 ### FCV/BEV Dataset - Preprocessed Oversampling
+<br>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="763" height="274">
     <br>
   <hr>

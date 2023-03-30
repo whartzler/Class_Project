@@ -367,13 +367,12 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
   </tbody>
 </table>
 </div>
-
  <br>
-    
-  <hr>
   ### FCV/BEV Dataset - Preprocessed Oversampling, Tuned XGBoost Confusion Matrix
+  <hr>
   <br>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" width="550" height="155" > 
+   <br>
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train2.png" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test2.png" width="550" height="155" > 
   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test.png" > 

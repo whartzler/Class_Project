@@ -66,9 +66,17 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png">
  
-<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="1000" height="500">
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png">
   
- <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="600" height="400">
+ <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" >
+ 
+ <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train.png" > 
+ 
+ <hr>
+  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_train2.png" > 
+   <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_Test2.png" > 
+    <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM_3_Tuned_XGB_Test.png" > 
+ 
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results
 - [ ] A machine learning model, including a confusion matrix and accuracy score 
 - [ ] Database that stores data for the project with at least two tables or collections

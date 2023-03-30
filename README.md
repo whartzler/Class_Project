@@ -64,11 +64,11 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 ## **ML Model Overview**
 <hr>
 
- <img src="https://github.com/whartzler/Class_Project/tree/main/ML_Models//ML1" width="600" height="400">
+ <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML1.png" width="600" height="400">
  
-<img src="https://github.com/whartzler/Class_Project/tree/main/ML_Models/Images/ML2" width="600" height="400">
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML2.png" width="600" height="400">
   
- <img src="https://github.com/whartzler/Class_Project/tree/main/ML_Models/Images/ML3" width="600" height="400">
+ <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/ML3.png" width="600" height="400">
 - [ ] A detailed README.md file that includes the project status, images, descriptions, and results
 - [ ] A machine learning model, including a confusion matrix and accuracy score 
 - [ ] Database that stores data for the project with at least two tables or collections

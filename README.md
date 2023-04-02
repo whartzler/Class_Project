@@ -31,13 +31,15 @@ We reviewed the biggest gender group of FCV and BEV owners along with different 
 When reveiwing the two groups each type of vehicle owner had very similar demograpics through all income groups.  The major differences we Females that had an income less than $150k made up the majority of FCV owners while Female's who had an income between 150k - 250k made up the majority of BEV owners.
 ![image](https://user-images.githubusercontent.com/109490755/229382069-fb34fcd2-a900-444a-aae2-1a5ba91f8411.png)
 
-
-
 #### Education & Home Ownership Comparison
+Education and home Ownership also was very similar between the two groups.  As education level increased both FCV and BEV owners the total population % who owned either type of vehicle grew in both male and female's.  Both vehicle groups also had a majority of home owners for male and female owners.
 ![image](https://user-images.githubusercontent.com/109490755/229382091-bee893de-c25e-407d-9b02-8bdbac4d6708.png)
 
+
 Previously Owned Cars
-![image](https://user-images.githubusercontent.com/109490755/229382113-e358a911-c5db-4eee-be61-eb765ee48b36.png)
+Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is also very similar.  Both FCV and BEV highest prior car owned was the HEV (Hybrid Electric Vehicle) as their prievous hard
+![image](https://user-images.githubusercontent.com/109490755/229382425-33ff53d9-b176-4e98-9b3f-b84da7fd80a8.png)
+
 
 
 

@@ -369,22 +369,22 @@ After our data was successfully cleaned, we turned our attention to creating mac
     <tr>
       <th>2</th>
       <td>Ridge Classifier</td>
-      <td>0.993022</td>
-      <td>0.990800</td>
-      <td>0.999680</td>
-      <td>0.999254</td>
-      <td>0.993014</td>
-      <td>0.991124</td>
+      <td>0.833297</td>
+      <td>0.830738</td>
+      <td>0.770199</td>
+      <td>0.766502</td>
+      <td>0.878592</td>
+      <td>0.886104</td>
     </tr>
     <tr>
       <th>3</th>
       <td>Tuned Ridge Classifier</td>
-      <td>1.000000</td>
-      <td>0.992215</td>
-      <td>1.000000</td>
-      <td>0.999254</td>
-      <td>1.000000</td>
-      <td>0.992593</td>
+      <td>0.833297</td>
+      <td>0.830738</td>
+      <td>0.770199</td>
+      <td>0.766502</td>
+      <td>0.878592</td>
+      <td>0.886104</td>
     </tr>
   </tbody>
 </table>

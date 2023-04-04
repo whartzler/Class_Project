@@ -19,10 +19,9 @@ First, we loaded in the dataset and viewed its dimensions, and we found that our
 ## Creating the Database
 [paragraph discussing the SQL database & its potential uses]
 
-## ML Models
-After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
 
 ## **ML Model Overview**
+After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
 
 ### FCV/BEV Dataset - Preprocessed with Outliers
 <br>
@@ -324,6 +323,68 @@ After our data was successfully cleaned, we turned our attention to creating mac
       <td>0.999254</td>
       <td>1.000000</td>
       <td>1.000000</td>
+    </tr>
+  </tbody>
+</table>
+</div>
+<br>
+
+### FCV/BEV Dataset - without Manufacturer, Model, & Model Year
+
+<br>
+<table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Model</th>
+      <th>Train_Accuracy</th>
+      <th>Test_Accuracy</th>
+      <th>Train_Recall</th>
+      <th>Test_Recall</th>
+      <th>Train_Precision</th>
+      <th>Test_Precision</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>0</th>
+      <td>SVM</td>
+      <td>0.975728</td>
+      <td>0.971691</td>
+      <td>0.997442</td>
+      <td>0.998509</td>
+      <td>0.977444</td>
+      <td>0.972404</td>
+    </tr>
+    <tr>
+      <th>1</th>
+      <td>Tuned SVM</td>
+      <td>1.000000</td>
+      <td>0.998585</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+    </tr>
+    <tr>
+      <th>2</th>
+      <td>Ridge Classifier</td>
+      <td>0.993022</td>
+      <td>0.990800</td>
+      <td>0.999680</td>
+      <td>0.999254</td>
+      <td>0.993014</td>
+      <td>0.991124</td>
+    </tr>
+    <tr>
+      <th>3</th>
+      <td>Tuned Ridge Classifier</td>
+      <td>1.000000</td>
+      <td>0.992215</td>
+      <td>1.000000</td>
+      <td>0.999254</td>
+      <td>1.000000</td>
+      <td>0.992593</td>
     </tr>
   </tbody>
 </table>

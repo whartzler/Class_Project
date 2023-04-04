@@ -22,62 +22,6 @@ First, we loaded in the dataset and viewed its dimensions, and we found that our
 ## ML Models
 After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
 
-- Confusion Matrix and Accuracy Score screenshot (and description of confusion matrix)
-
-## Tableau Visualizations & Results
-We reviewed the biggest gender group of FCV and BEV owners along with different metric's to see if we can find which gender was the primary customer base and if there are any similiarities/differences between the demographics of each group.  We looked at a couple of demographics with examples below.  More can be reviewed on the tableau page.  
-
-#### Household Income
-When reveiwing the two groups each type of vehicle owner had very similar demograpics through all income groups.  The major differences we Females that had an income less than $150k made up the majority of FCV owners while Female's who had an income between 150k - 250k made up the majority of BEV owners.
-![image](https://user-images.githubusercontent.com/109490755/229382069-fb34fcd2-a900-444a-aae2-1a5ba91f8411.png)
-
-#### Education & Home Ownership Comparison
-Education and home Ownership also was very similar between the two groups.  As education level increased both FCV and BEV owners the total population % who owned either type of vehicle grew in both male and female's.  Both vehicle groups also had a majority of home owners for male and female owners.
-![image](https://user-images.githubusercontent.com/109490755/229382091-bee893de-c25e-407d-9b02-8bdbac4d6708.png)
-
-
-#### Previously Owned Cars
-Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is also very similar.  Both FCV and BEV highest prior car owned was the HEV (Hybrid Electric Vehicle).
-![image](https://user-images.githubusercontent.com/109490755/229382425-33ff53d9-b176-4e98-9b3f-b84da7fd80a8.png)
-
-
-## Technologies
-- Importing & Cleaning the Data
-  - Python via Jupyter Notebook (Pandas, Numpy, Scipy)
-- Database
-  - PostgreSQL
-- EDA
-  - Matplotlib, Seaborn, Numpy
-- Machine Learning
-  - Sklearn (Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Ridge Classifier)
-- Visualizations
-  - Tableau Public
-
-
-
-## File Guide 
-- [EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
-- [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/FCVvsBEVCustomerReview)
-- [ML Model](https://github.com/whartzler/Class_Project/blob/main/ML_Models/ML_Project.ipynb)
-- [Export of Cleaned Dataset](https://github.com/whartzler/Class_Project/tree/main/Exports)
-
-## References
-Citation of the dataset: 
-Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313
-
-
-<hr>
-
-## Questions to answer
-1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
-2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
-    - Male or Female the Primiary Customers of each type of Vehicle Type
-    - Any similarities/differences between the customer home and education demographics
-    - Any similarities/differences between the customer car useage   
-    - Review additional Demographics... 
-
-## Segment 2
-
 ## **ML Model Overview**
 
 ### FCV/BEV Dataset - Preprocessed with Outliers
@@ -446,3 +390,57 @@ The Tuned XGBoost Model can correctly predict with a 99% accuracy whether the ca
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test2.png" width="550" height="155" > 
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test.png" > 
  <br>
+
+
+## Tableau Visualizations & Results
+We reviewed the biggest gender group of FCV and BEV owners along with different metric's to see if we can find which gender was the primary customer base and if there are any similiarities/differences between the demographics of each group.  We looked at a couple of demographics with examples below.  More can be reviewed on the tableau page.  
+
+#### Household Income
+When reveiwing the two groups each type of vehicle owner had very similar demograpics through all income groups.  The major differences we Females that had an income less than $150k made up the majority of FCV owners while Female's who had an income between 150k - 250k made up the majority of BEV owners.
+![image](https://user-images.githubusercontent.com/109490755/229382069-fb34fcd2-a900-444a-aae2-1a5ba91f8411.png)
+
+#### Education & Home Ownership Comparison
+Education and home Ownership also was very similar between the two groups.  As education level increased both FCV and BEV owners the total population % who owned either type of vehicle grew in both male and female's.  Both vehicle groups also had a majority of home owners for male and female owners.
+![image](https://user-images.githubusercontent.com/109490755/229382091-bee893de-c25e-407d-9b02-8bdbac4d6708.png)
+
+
+#### Previously Owned Cars
+Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is also very similar.  Both FCV and BEV highest prior car owned was the HEV (Hybrid Electric Vehicle).
+![image](https://user-images.githubusercontent.com/109490755/229382425-33ff53d9-b176-4e98-9b3f-b84da7fd80a8.png)
+
+
+## Technologies
+- Importing & Cleaning the Data
+  - Python via Jupyter Notebook (Pandas, Numpy, Scipy)
+- Database
+  - PostgreSQL
+- EDA
+  - Matplotlib, Seaborn, Numpy
+- Machine Learning
+  - Sklearn (Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Ridge Classifier)
+- Visualizations
+  - Tableau Public
+
+
+
+## File Guide 
+- [EDA and ETL Notebook](https://github.com/whartzler/Class_Project/blob/main/Project_Template.ipynb)
+- [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/FCVvsBEVCustomerReview)
+- [ML Model](https://github.com/whartzler/Class_Project/blob/main/ML_Models/ML_Project.ipynb)
+- [Export of Cleaned Dataset](https://github.com/whartzler/Class_Project/tree/main/Exports)
+
+## References
+Citation of the dataset: 
+Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning households in California (From NCST Project "Understanding the Early Adopters of Fuel Cell Vehicles"), Dryad, Dataset, https://doi.org/10.25338/B8P313
+
+
+<hr>
+
+## Questions to answer
+1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
+2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
+    - Male or Female the Primiary Customers of each type of Vehicle Type
+    - Any similarities/differences between the customer home and education demographics
+    - Any similarities/differences between the customer car useage   
+    - Review additional Demographics... 
+

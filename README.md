@@ -42,16 +42,16 @@ Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is al
 
 
 ## Technologies
-Importing & Cleaning the Data
-- Python via Jupyter Notebook (Pandas, Numpy, Scipy)
-Database
-- PostgreSQL
-EDA
-- Matplotlib, Seaborn, Numpy
-Machine Learning
-- Sklearn (Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Ridge Classifier)
-Visualizations
-- Tableau Public
+- Importing & Cleaning the Data
+  - Python via Jupyter Notebook (Pandas, Numpy, Scipy)
+- Database
+  - PostgreSQL
+- EDA
+  - Matplotlib, Seaborn, Numpy
+- Machine Learning
+  - Sklearn (Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Ridge Classifier)
+- Visualizations
+  - Tableau Public
 
 
 

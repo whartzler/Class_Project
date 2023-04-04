@@ -1,4 +1,4 @@
-# Potential Electric Vehicle Analysis
+# Electric Vehicle Analysis
 
 ## Overview of Project
 As the world shifts its focus from the traditional fossil fuel-powered vehicle towards an eco-friendlier stance, electric vehicles (EVs) have begun to take center stage.  Because of this rapidly changing global demeanor relative to the automobile industry, it was only natural that we were interested in doing a project involving EVs.  Given that EVs are becoming more and more prevalent in today’s society, there are many different types of EVs to consider.  For example, Battery Electric Vehicles (BEVs) are vehicles that are powered by an electric motor, Plug-in Hybrid Electric Vehicles (PHEVs) are vehicles that have two motors that run on both gasoline and electricity, and Fuel-Cell Vehicles (FCVs) utilize energy stored as hydrogen that gets converted to electricity by a fuel cell.  

@@ -466,7 +466,15 @@ The Tuned XGBoost Model can correctly predict with a 99% accuracy whether the ca
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test.png" > 
  <br>
 
+### Plotting the Tuned Decision Tree
+
+<br>
+
 <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/DT1.png" width ="804" height="780">
+<br>
+
+### Feature Importance of the Tuned Decision Tree
+<img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/F_Importance3.png" width="803" height="532">
 
 ## Tableau Visualizations & Results
 We reviewed the biggest gender group of FCV and BEV owners along with different metric's to see if we can find which gender was the primary customer base and if there are any similiarities/differences between the demographics of each group.  We looked at a couple of demographics with examples below.  More can be reviewed on the tableau page.  

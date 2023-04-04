@@ -21,7 +21,7 @@ First, we loaded in the dataset and viewed its dimensions, and we found that our
 
 
 ## **ML Model Overview**
-After our data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using a supervised machine learning model.  In particular, we decided to use a [finish this paragraph by discussing the types of machine learning models used].  
+After the data was successfully cleaned, we turned our attention to creating machine learning models.  Given that all of the data is labelled and available, we knew that we would be using supervised machine learning models. The models chosen were: logistical regression, decision tree, random forest, extreme gradient boosting, single vector machine, and the ridge classifier. The single dataset was cleaned/processed four different ways. The first data set contained outliers. The second dataset had the outliers removed. The third dataset had no outliers and the classes were balanced using oversampling. The final dataset the vehicle attributes: `manufacturer`, `model`, and `model year` columns were dropped. 
 
 ### FCV/BEV Dataset - Preprocessed with Outliers
 <br>
@@ -125,7 +125,7 @@ After our data was successfully cleaned, we turned our attention to creating mac
 <br>  
 
 ***Observations:***
-All models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). Even with outliers all models had an very close to perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the `model year` column.
+All models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were battery electric vehicles and Teslas were fuel cell vehicles). Even with outliers all models had an very close to perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the `model year` column.
 
 
 ### FCV/BEV Dataset - Preprocessed without Outliers
@@ -336,7 +336,7 @@ With out outliers all models had a near perfect 100% prediction accuracy. There 
 <br>
 
 ***Observations:***
-Given that the BEV and FCV classes were unweighted, it was useful to look at models with the classes balanced. Oversampling was used to balance the classes. Again all models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). All models had an about an 100% accuracy prediction. There did not appear to be any over or underfitting. This dataset had the `model year` column and the outliers were removed.
+Given that the BEV and FCV classes were unweighted, it was useful to look at models with the classes balanced. Oversampling was used to balance the classes. Again all models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were battery electric vehicles and Teslas were fuel cell vehicles). All models had an about an 100% accuracy prediction. There did not appear to be any over or underfitting. This dataset had the `model year` column and the outliers were removed.
 
 
 

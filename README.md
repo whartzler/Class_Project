@@ -349,22 +349,22 @@ After our data was successfully cleaned, we turned our attention to creating mac
     <tr>
       <th>0</th>
       <td>SVM</td>
-      <td>0.975728</td>
-      <td>0.971691</td>
-      <td>0.997442</td>
-      <td>0.998509</td>
-      <td>0.977444</td>
-      <td>0.972404</td>
+      <td>0.843204</td>
+      <td>0.842792</td>
+      <td>0.828844</td>
+      <td>0.832512</td>
+      <td>0.851025</td>
+      <td>0.855263</td>
     </tr>
     <tr>
       <th>1</th>
       <td>Tuned SVM</td>
-      <td>1.000000</td>
-      <td>0.998585</td>
-      <td>1.000000</td>
-      <td>0.999254</td>
-      <td>1.000000</td>
-      <td>0.999254</td>
+      <td>0.987938</td>
+      <td>0.971873</td>
+      <td>0.999565</td>
+      <td>1.0</td>
+      <td>0.976655</td>
+      <td>0.947712</td>
     </tr>
     <tr>
       <th>2</th>

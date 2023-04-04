@@ -521,6 +521,7 @@ Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is al
 - [Tableau Story](https://public.tableau.com/app/profile/warren.hartzler5043/viz/ClassProject_16797804258450/FCVvsBEVCustomerReview)
 - [ML Model](https://github.com/whartzler/Class_Project/blob/main/ML_Models/ML_Project.ipynb)
 - [Export of Cleaned Dataset](https://github.com/whartzler/Class_Project/tree/main/Exports)
+- [Presentation](https://docs.google.com/presentation/d/1UMoQD5Q_BG4J8CWz9ukYXhL95_icRL-jdCqHiMPY6Mc/edit#slide=id.p)
 
 ## References
 Citation of the dataset: 
@@ -529,11 +530,5 @@ Hardman, Scott (2019), Sociodemographic data for battery electric vehicle owning
 
 <hr>
 
-## Questions to answer
-1. ML Model to predict based on the demographics determine if the owner is a FCV or BEV owner
-2. Review BEV or FCV owners and determine if their Demographics have and major differences or similarities
-    - Male or Female the Primiary Customers of each type of Vehicle Type
-    - Any similarities/differences between the customer home and education demographics
-    - Any similarities/differences between the customer car useage   
-    - Review additional Demographics... 
+
 

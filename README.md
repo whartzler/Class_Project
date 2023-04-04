@@ -41,18 +41,20 @@ Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is al
 ![image](https://user-images.githubusercontent.com/109490755/229382425-33ff53d9-b176-4e98-9b3f-b84da7fd80a8.png)
 
 
-
-
-
-## Data Exploration & Analysis
-### Data Exploration
-### Data Analysis
-We used a combination of Jupyter Notebooks & Tableau to review and visualize the data to get a clear and accurate picture of what the data represented. Utilizing Jupyter Notebooks, we analyzed the dataset to review and remove outliers that will sway the data.  Primarily, we used Tableau and Matplotlib to visualize the data to better understand the customer base for each vehicle type.  
-
 ## Technologies
-- Python
-- Tableau, Matplotlib and Seaborn Libraries for Data Visualization/Analysis
-- Numpy for statistics and data cleaning
+Importing & Cleaning the Data
+  Python via Jupyter Notebook (Pandas, Numpy, Scipy)
+Database
+  PostgreSQL
+EDA
+  Matplotlib
+  Seaborn
+  Numpy
+Machine Learning
+  Sklearn (Logistic Regression, Decision Tree, Random Forest, XGBoost, SVM, Ridge Classifier)
+Visualizations
+  Tableau Public
+
 
 
 ## File Guide 

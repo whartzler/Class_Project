@@ -470,15 +470,21 @@ The Tuned XGBoost Model can correctly predict with a 99% accuracy whether the ca
 ### Plotting the Tuned Decision Tree
 
 <br>
-
 <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/DT1.png" width ="804" height="780">
-
 <br>
 
-### Feature Importance of the Tuned Decision Tree
+***Observations:***
+The plot of the decision tree shows the conditions that the model is using to evaluate whether the vehicle is a BEV or FCV. The first three were the `manufacturer`, `model`, and  `model year`. Then the `longest trip`, `number of trips over 200 miles`, and `importance of reducing greenhouse gases` were evaluated to determine the type of vehicle.
+
+### Feature Importance of the Random Forest Model
 <br>
 <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/F_Importance3.png" width="803" height="532">
 <br>
+
+***Observations:***
+The feature importance was calcuated and sorted from the random forest model. The `manufacturer` had a 33%, `model` had a 37%, and  `model year` a 15% over all the total 19 attributes in determining the prediction. Then the `longest trip` had a 3%, `number of trips over 200 miles` had a 2%, and `importance of reducing greenhouse gases` had a 2% impact compared to all the 19 attributes in determining vehicle type. The feature importance supported the plotted tuned decision tree.
+
+
 ## Tableau Visualizations & Results
 We reviewed the biggest gender group of FCV and BEV owners along with different metric's to see if we can find which gender was the primary customer base and if there are any similiarities/differences between the demographics of each group.  We looked at a couple of demographics with examples below.  More can be reviewed on the tableau page.  
 

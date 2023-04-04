@@ -125,7 +125,7 @@ After our data was successfully cleaned, we turned our attention to creating mac
 <br>  
 
 ***Observations:***
-All models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). Even with outliers all models had an very close to perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the model year column.
+All models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). Even with outliers all models had an very close to perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the `model year` column.
 
 
 ### FCV/BEV Dataset - Preprocessed without Outliers
@@ -231,7 +231,7 @@ All models quickly learned how to predict an FCV or BEV based on the attributes 
 <br>  
 
 ***Observations:***
-With out outliers all models had a near perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the model year column and included a unnecessary column, `last page`.
+With out outliers all models had a near perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the `model year` column and included a unnecessary column, `last page`.
 
 ### FCV/BEV Dataset - Preprocessed Oversampling
 
@@ -335,6 +335,11 @@ With out outliers all models had a near perfect 100% prediction accuracy. There 
 </div>
 <br>
 
+***Observations:***
+Given that the BEV and FCV classes were unweighted, it was useful to look at models with the classes balanced. Oversampling was used to balance the classes. Again all models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). All models had an about an 100% accuracy prediction. There did not appear to be any over or underfitting. This dataset had the `model year` column and the outliers were removed.
+
+
+
 ### FCV/BEV Dataset - without Manufacturer, Model, & Model Year
 
 <br>
@@ -396,6 +401,9 @@ With out outliers all models had a near perfect 100% prediction accuracy. There 
 </table>
 </div>
 <br>
+
+***Observations:***
+Realizing that it was too easy for the models to predict the vehicle type based vehicle attributes. The vehicle attributes were removed to get a better idea of how buyer demographics effected vehicle type. After dropping `manufacturer`, `model`, and `model year` it was interesting to see the all models performances dropped by about 10%. In addition, support vector machine (SVM) and ridge classifier were the models used to train and test the dataset. The tuned SVM model had the highest accuracy at roughly 97%. Since there was little to no difference between the test and train models there was no indication of over or under fitting.
 
 ### Understanding the Confusion Matrix
 

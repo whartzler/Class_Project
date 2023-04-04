@@ -446,28 +446,3 @@ The Tuned XGBoost Model can correctly predict with a 99% accuracy whether the ca
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test2.png" width="550" height="155" > 
  <img src="https://github.com/whartzler/Class_Project/blob/main/ML_Models/Images/CM3_Tuned_XGB_Test.png" > 
  <br>
- 
-- [ ] A detailed README.md file that includes the project status, images, descriptions, and results
-- [ ] A machine learning model, including a confusion matrix and accuracy score 
-- [ ] Database that stores data for the project with at least two tables or collections
-- [x] Selected topic and the reasoning for that selection
-- [x] Description of the data
-- [ ] Questions that the team originally planned to answer with the project
-- [ ] Description of the data exploration phase of the project
-- [x] Description of the analysis phase of the project
-- [ ] Technologies, languages, tools, and algorithms that the team used throughout the project
-
-### Next Steps
-- Christy to update ML Section Screenshots for (Confusion Matrix and Accuracy Score)
-  - ML Model in Tableau
-- Project Template Cleanup - WH
-- Screenshots of Tableau to Answer Questions & Dashboard - WH
-- Readme Team (Ryan)
-- Database - DA
-
-
-
-### Due Dates: 
- - Segment 1: March 22nd 
- - Segment 2: March 29
- - Segment 3: April 5th! & Final day of class

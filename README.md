@@ -122,8 +122,11 @@ After our data was successfully cleaned, we turned our attention to creating mac
   </tbody>
 </table>
 </div>
-
 <br>  
+
+***Observations:***
+All models quickly learned how to predict an FCV or BEV based on the attributes of the vehicle (ie. All Toyota, Mirai models were hydrogen fuel cell vehicles). Even with outliers all models had an very close to perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the model year column.
+
 
 ### FCV/BEV Dataset - Preprocessed without Outliers
 
@@ -226,6 +229,9 @@ After our data was successfully cleaned, we turned our attention to creating mac
 </table>
 </div>
 <br>  
+
+***Observations:***
+With out outliers all models had a near perfect 100% prediction accuracy. There did not appear to be any over or underfitting. This dataset was missing the model year column and included a unnecessary column, `last page`.
 
 ### FCV/BEV Dataset - Preprocessed Oversampling
 

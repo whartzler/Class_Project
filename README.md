@@ -17,7 +17,7 @@ First, we loaded in the dataset and viewed its dimensions, and we found that our
 
 
 ## Creating the Database
-[paragraph discussing the SQL database & its potential uses]
+As part of this project, we created an AWS database to house our data in order to make it publicly accessible. Through PostgreSQL, we imported the csv files, created tables, and ran some preliminary queries to check the data and ensure its usability.  
 
 
 ## **ML Model Overview**

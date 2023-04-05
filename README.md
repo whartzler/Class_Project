@@ -494,7 +494,7 @@ When reveiwing the two groups each type of vehicle owner had very similar demogr
 
 #### Education & Home Ownership Comparison
 Education and home Ownership also was very similar between the two groups.  As education level increased both FCV and BEV owners the total population % who owned either type of vehicle grew in both male and female's.  Both vehicle groups also had a majority of home owners for male and female owners.
-![image](https://user-images.githubusercontent.com/109490755/229382091-bee893de-c25e-407d-9b02-8bdbac4d6708.png)
+![image](https://user-images.githubusercontent.com/109490755/229958833-581b3261-199b-47a8-8184-83aa0a5d48e2.png)
 
 
 #### Previously Owned Cars

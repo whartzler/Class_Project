@@ -411,16 +411,16 @@ Realizing that it was too easy for the models to predict the vehicle type based 
   <thead>
     <tr style="text-align: right;">
       <th>Predicted/Actual</th>
-      <th>FCV (0)</th>
       <th>BEV (1)</th>
+      <th>FCV (0)</th>
     </tr>
     <tr style="text-align: right;">
-      <th> FCV (0)</th>
+      <th> BEV (1)</th>
          <td> TP </td>
          <td> FP </td>
      </tr>
      <tr style="text-align: right;">
-       <th> BEV (1)</th>
+       <th> FCV (0)</th>
          <td> FN </td>
          <td> TN </td>
      </tr>

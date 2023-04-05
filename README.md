@@ -488,6 +488,10 @@ The feature importance was calcuated and sorted from the random forest model. Th
 ## Tableau Visualizations & Results
 We reviewed the biggest gender group of FCV and BEV owners along with different metric's to see if we can find which gender was the primary customer base and if there are any similiarities/differences between the demographics of each group.  We looked at a couple of demographics with examples below.  More can be reviewed on the tableau page.  
 
+#### Gender Breakout
+![image](https://user-images.githubusercontent.com/109490755/229959025-c233614e-42d8-4ae1-83c3-e7ae3d3ec307.png)
+
+
 #### Household Income
 When reveiwing the two groups each type of vehicle owner had very similar demograpics through all income groups.  The major differences we Females that had an income less than $150k made up the majority of FCV owners while Female's who had an income between 150k - 250k made up the majority of BEV owners.
 ![image](https://user-images.githubusercontent.com/109490755/229382069-fb34fcd2-a900-444a-aae2-1a5ba91f8411.png)

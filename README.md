@@ -505,6 +505,9 @@ Education and home Ownership also was very similar between the two groups.  As e
 Looking at 4 types previosuly owned cars FCV and BEV owners owned the data is also very similar.  Both FCV and BEV highest prior car owned was the HEV (Hybrid Electric Vehicle).
 ![image](https://user-images.githubusercontent.com/109490755/229382425-33ff53d9-b176-4e98-9b3f-b84da7fd80a8.png)
 
+### Conclusion
+After reviewing the demographics for both FCV and BEV owners both groups from this dataset are very similar.  There are no major differences that we identified.
+
 
 ## Technologies
 - Importing & Cleaning the Data

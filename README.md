@@ -411,16 +411,16 @@ Realizing that it was too easy for the models to predict the vehicle type based 
   <thead>
     <tr style="text-align: right;">
       <th>Predicted/Actual</th>
-      <th>FCV (1)</th>
-      <th>BEV (0)</th>
+      <th>FCV (0)</th>
+      <th>BEV (1)</th>
     </tr>
     <tr style="text-align: right;">
-      <th> FCV (1)</th>
+      <th> FCV (0)</th>
          <td> TP </td>
          <td> FP </td>
      </tr>
      <tr style="text-align: right;">
-       <th> BEV (0)</th>
+       <th> BEV (1)</th>
          <td> FN </td>
          <td> TN </td>
      </tr>
@@ -431,12 +431,12 @@ Realizing that it was too easy for the models to predict the vehicle type based 
 
 **The Tuned XGBoost Model with the Oversampled Data was chosen as the best model.**
 
-The model is predicting whether a car is a battery electric vehicle (BEV - 0) or a fuel cell vehicle (FCV - 1) based on buyer demographics.
+The model is predicting whether a car is a battery electric vehicle (BEV - 1) or a fuel cell vehicle (FCV - 0) based on buyer demographics.
 
 **Model evaluation criteria:**
 The model can make two types of wrong predictions:
-1. Predicting the car is a FEV when it’s really a BEV (FP - Type I Error)
-2. Predicting the car is a BEV when it’s really a FEV  (FN - Type II Error)
+1. Predicting the car is a BEV when it’s really a FEV (FP - Type I Error)
+2. Predicting the car is a FEV when it’s really a BEV  (FN - Type II Error)
 
 **Which case is more important?**
 	In this case they are the same. We want to maximize the accuracy of both classes (positive and negative), how many of both positive and negative has the model predicted correctly. Accuracy should be high as possible.
